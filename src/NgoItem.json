@@ -1,0 +1,45 @@
+[
+    {
+        "id":"1",
+        "images":"https://mk0digitallearn7ttjx.kinstacdn.com/wp-content/uploads/2019/12/Why-School-education-crucial-for-child-development.jpg",
+        "name":"Eduaction",
+        "quotes":"Education is the most powerful weopon",
+        "donation":"Donate Now"
+    },
+    {
+        "id":"2",
+        "images":"https://www.genesismedical.co.za/wp-content/uploads/2018/08/understand-funding-for-hospital-admissions-part-2-of-3.jpg",
+        "name":"Hospital",
+        "quotes":"We can't give life to anyone but we can save",
+        "donation":"Donate Now"
+    },
+    {
+        "id":"6",
+        "images":"https://www.businessinsider.in/thumb/msid-78529842,width-600,resizemode-4,imgsize-35602/india/news/by-2021-as-many-as-150-million-people-likely-to-be-in-extreme-poverty-due-to-covid-19-world-bank/atul-pandey.jpg",
+        "name":"Poverty",
+        "quotes":"There's more to doing good than hating evil",
+        "donation":"Donate Now"
+    },
+    {
+        "id":"4",
+        "images":"https://mk0jainsusacom0cy7l0.kinstacdn.com/wp-content/uploads/2016/08/AdobeStock_159466687-scaled.jpeg",
+        "name":"Drought",
+        "quotes":"A bowl of rice can satisfy someone's hunger but ...due to the drought, the farmer is in trouble",
+        "donation":"Donate Now"
+    },
+    {
+        "id":"5",
+        "images":"https://cdn.dnaindia.com/sites/default/files/styles/full/public/2021/05/13/973982-cyclone.jpg",
+        "name":"Cyclone/tusnami",
+        "quotes":"We can't give them what they will lose but we give them something",
+        "donation":"Donate Now"
+    },
+    {
+        "id":"3",
+        "images":"https://images-na.ssl-images-amazon.com/images/I/61w9jTIRm-L._SL1000_.jpg",
+        "name":"Enviornment",
+        "quotes":"One of the first conditions of happiness is that the link between man and nature shall not be broken",
+        "donation":"Donate Now"
+    }
+    
+]
